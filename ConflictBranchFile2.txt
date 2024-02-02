@@ -1,0 +1,1 @@
+"My ConflictBranchFile2.txt file"
